@@ -5,7 +5,7 @@ export const Bio = {
     "I am a Computer Science undergraduate with a strong foundation in coding, software engineering, and full-stack development. I am dedicated to delivering high-quality results and eager to take on new challenges. With a positive attitude and a growth mindset, I aim to make a meaningful contribution in software development.",
   github: "https://github.com/Thanushii",
   resume:
-    "",
+    "https://drive.google.com/file/d/1cEY9SbYlWHKVNh-hk5a1u6jPxlPteQ1X/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/amaya-subasinghe-3b0193294",
   email: "thanushiamayaa@gmail.com",
 };
